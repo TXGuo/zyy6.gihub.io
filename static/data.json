@@ -1,0 +1,36 @@
+{
+  "banner":[
+    {
+      "image":"../static/port1.png"
+    },
+    {
+      "image":"../static/port1.png"
+    },
+    {
+      "image":"../static/port1.png"
+    }
+  ],
+  "type":[
+    {"type":"跟团游","img":"../static/type1.png"},
+    {"type":"周边游","img":"../static/type2.png"},
+    {"type":"同城玩乐","img":"../static/type3.png"},
+    {"type":"自由行","img":"../static/type4.png"}
+  ],
+  "big":[
+    {"img":"../static/pic1.png"},
+    {"img":"../static/pic2.png"}
+  ],
+  "small":[
+    {"img":"../static/pic3.png"},
+    {"img":"../static/pic4.png"},
+    {"img":"../static/pic5.png"}
+  ],
+  "list":[
+    {"price":8990,"img":"../static/list1.jpg","txt":"云南婚纱照大理双廊洱海摄影旅行跟拍婚"},
+    {"price":88,"img":"../static/list1.jpeg","txt":"【易子橙工艺品经营部】单人陶艺+烧制"},
+    {"price":8990,"img":"../static/list1.jpg","txt":"云南婚纱照大理双廊洱海摄影旅行跟拍婚"},
+    {"price":88,"img":"../static/list1.jpeg","txt":"【易子橙工艺品经营部】单人陶艺+烧制"},
+    {"price":8990,"img":"../static/list1.jpg","txt":"云南婚纱照大理双廊洱海摄影旅行跟拍婚"},
+    {"price":88,"img":"../static/list1.jpeg","txt":"【易子橙工艺品经营部】单人陶艺+烧制"}
+  ]
+}
